@@ -1,0 +1,10 @@
+C:\Users\GIGABYTE\Downloads\TEST 02\Test 02 bài 1\Test 02 bài 1\obj\Debug\Test 02 bài 1.csproj.AssemblyReference.cache
+C:\Users\GIGABYTE\Downloads\TEST 02\Test 02 bài 1\Test 02 bài 1\obj\Debug\Test_02_bài_1.Properties.Resources.resources
+C:\Users\GIGABYTE\Downloads\TEST 02\Test 02 bài 1\Test 02 bài 1\obj\Debug\Test 02 bài 1.csproj.GenerateResource.cache
+C:\Users\GIGABYTE\Downloads\TEST 02\Test 02 bài 1\Test 02 bài 1\obj\Debug\Test 02 bài 1.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\Downloads\TEST 02\Test 02 bài 1\Test 02 bài 1\obj\Debug\Test_02_bài_1.Form1.resources
+C:\Users\GIGABYTE\Downloads\TEST 02\Test 02 bài 1\Test 02 bài 1\bin\Debug\Test 02 bài 1.exe.config
+C:\Users\GIGABYTE\Downloads\TEST 02\Test 02 bài 1\Test 02 bài 1\bin\Debug\Test 02 bài 1.exe
+C:\Users\GIGABYTE\Downloads\TEST 02\Test 02 bài 1\Test 02 bài 1\bin\Debug\Test 02 bài 1.pdb
+C:\Users\GIGABYTE\Downloads\TEST 02\Test 02 bài 1\Test 02 bài 1\obj\Debug\Test 02 bài 1.exe
+C:\Users\GIGABYTE\Downloads\TEST 02\Test 02 bài 1\Test 02 bài 1\obj\Debug\Test 02 bài 1.pdb
