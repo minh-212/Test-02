@@ -5,7 +5,7 @@ Markdown
 ## THÔNG TIN SINH VIÊN
 - **Họ và tên:** Nguyễn Ngọc Minh
 - **Mã số sinh viên:** 24810310280
-- **Lớp:** 20DTHxx
+- **Lớp:** D19CNPM3
 - **Tên môn học:** Lập trình C# / Windows Forms
 - **Tên bài tập:** [Test 02]
 
